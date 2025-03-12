@@ -4,7 +4,7 @@
 # Taller Avanzado de Desarrollo de Software
 
 ## Actividad:
-# Clase 13 - webApi (Modelo Censo actualizado)
+# Clase 15 - webApi (Conexión a MySql - apiRESTCheckBd)
 
 
 ## Estudiantes:
